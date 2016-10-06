@@ -1,0 +1,40 @@
+.btn-custom {
+  background-color: #444;
+  border-color: #444;
+}
+
+.btn-custom:hover, .btn-custom:focus {
+  background-color: #303030;
+  border-color: #303030;
+}
+
+#topnav .navbar-nav > .active > a{
+	color: #444;
+}
+
+.timeline-panel:hover:after {
+  border-color: #444;
+}
+
+.services > li.active > a {
+  border-color: #444;
+  color: #444;
+}
+
+.services > li.active > a:hover, .services > li.active > a:focus {
+  color: #444;
+  border-color: #444;
+}
+
+.services > li.active > a:after{
+	background-color: #444;
+}
+
+.services > li > a:hover, .services > li > a:focus{
+	color: #444;
+	border-color: #444;
+}
+
+.filter.active {
+	color: #444;
+}
