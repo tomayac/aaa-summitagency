@@ -12,7 +12,8 @@ h4 {
 }
 
 p {
-  font-family: 'Lato', sans-serif;
+  /*font-family: 'Lato', sans-serif;*/
+  font-family: 'Roboto', sans-serif;
 }
 
 .btn {
@@ -280,10 +281,10 @@ section {
 
 .about-text {
   /*font-family: 'Alegreya Sans SC', sans-serif;*/
-  font-family: 'Roboto Slab', serif;
+  font-family: 'Roboto', sans-serif;
   text-align: center;
   font-size: 21px;
-  color: #959595;
+  color: #545454;
 }
 
 .picture {
@@ -457,7 +458,8 @@ section {
 
 .date {
   display: block;
-  font-family: 'Lato', sans-serif;
+  /*font-family: 'Lato', sans-serif;*/
+  font-family: 'Roboto', sans-serif;
 }
 
 
