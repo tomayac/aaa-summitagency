@@ -152,8 +152,40 @@ section {
   background-image: url("../images/bg/5.jpg");
 }
 
+#backgrounds .slides li .slide5 {
+  background-image: url("../images/bg/8.jpg");
+}
+
 #backgrounds .slides li .slide6 {
   background-image: url("../images/bg/6.jpg");
+}
+
+#backgrounds .slides li .slide5 {
+  background-image: url("../images/bg/9.jpg");
+}
+
+#backgrounds .slides li .slide5 {
+  background-image: url("../images/bg/10.jpg");
+}
+
+#backgrounds .slides li .slide1 {
+  background-image: url("../images/bg/7.jpg");
+}
+
+#backgrounds .slides li .slide5 {
+  background-image: url("../images/bg/14.jpg");
+}
+
+#backgrounds .slides li .slide5 {
+  background-image: url("../images/bg/13.jpg");
+}
+
+#backgrounds .slides li .slide5 {
+  background-image: url("../images/bg/12.jpg");
+}
+
+#backgrounds .slides li .slide5 {
+  background-image: url("../images/bg/11.jpg");
 }
 
 #backgrounds .slides li .slide1 {
