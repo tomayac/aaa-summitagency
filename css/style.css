@@ -3,7 +3,8 @@
 
 
 body {
-  font-family: 'Alegreya Sans SC', sans-serif;
+  /*font-family: 'Alegreya Sans SC', sans-serif;*/
+  font-family: 'Roboto Slab', serif;
   color: #545454;
 }
 
@@ -275,7 +276,8 @@ section {
 -------------------------------------------------------------- */
 
 .about-text {
-  font-family: 'Alegreya Sans SC', sans-serif;
+  /*font-family: 'Alegreya Sans SC', sans-serif;*/
+  font-family: 'Roboto Slab', serif;
   text-align: center;
   font-size: 21px;
   color: #959595;
